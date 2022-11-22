@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://65.0.182.134:9000/</sonar.host.url>
+		<sonar.host.url>http://172.31.44.220:9000/</sonar.host.url>
                 <sonar.login>squ_04ee0afbd87dc9dcef1fdd85dfd9c88a7f87ddf5</sonar.login>
 	
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.110.31.61:8125/sivaram/repository/sbi-release//</url>
+	      <url>http://172.31.42.224:8125/sivaram/repository/sbi-release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.110.31.61:8125/sivaram/repository/sbi-snapchat//</url>
+	      <url>http://172.31.42.224:8125/sivaram/repository/sbi-snapchat//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
