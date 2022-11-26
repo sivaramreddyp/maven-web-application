@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.42.224:8125/sivaram/repository/sbi-release//</url>
+	      <url>http://52.66.99.244:8125/sivaram/repository/sbi-release//</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.42.224:8125/sivaram/repository/sbi-snapchat//</url>
+	      <url>http://52.66.99.244:8125/sivaram/repository/sbi-snapchat//</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
